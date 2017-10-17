@@ -1,0 +1,17 @@
+{
+    "name": "sohecdyavila/buy-sell-bitcoins",
+    "description": "compra y venta bitcoins o USD",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Sohecdy Avila",
+            "email": "sohecdyavila38@gmail.com"
+        }
+    ],
+    "require": {
+    "fabpot/goutte": "^3.2",
+    "symfony/dom-crawler": "^2.8",
+    "symfony/css-selector": "^2.8",
+    "wbraganca/yii2-dynamicform": "^2.0.1"
+    }
+}
